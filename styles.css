@@ -44,3 +44,29 @@ body {
 .footer p {
     color: #FAFAF8;
 }
+
+.body {
+    display: flex;
+    flex-direction: column; 
+    flex: 1;
+}
+
+.body-title {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.body-title h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.body-title p {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.body-quote {
+    background-color: #E5E7EB;
+}
