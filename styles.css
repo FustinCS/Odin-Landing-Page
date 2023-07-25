@@ -39,6 +39,10 @@ img {
     font-size: 18px;
 }
 
+.header a:hover {
+   color: #9d9fa1; 
+}
+
 .footer {
     background-color: #1F2937;
     display: flex;
@@ -97,6 +101,11 @@ img {
     margin-top: 12px;
 }
 
+.body-title button:hover {
+    color: #3882F6;
+    background-color: #F9FAF8;
+}
+
 .body-title-info {
     max-width: 450px;
 }
@@ -128,6 +137,7 @@ img {
     border-radius: 16px;
     height: 150px;
     width: 150px;
+    margin: 0 auto;
 }
 
 .individual-info p {
@@ -195,6 +205,11 @@ img {
     padding: 6px 32px;
     font-weight: bolder;
     font-size: 16px;
+}
+
+.button-container button:hover {
+    background-color: #F9FAF8;
+    color: #3882F6;
 }
 
 .button-info {
