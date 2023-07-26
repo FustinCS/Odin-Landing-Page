@@ -230,3 +230,10 @@ img {
 .button-info p {
     font-size: 16px;
 }
+
+.cat {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 12px;
+}
